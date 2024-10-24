@@ -1,6 +1,6 @@
  module.exports = {
  config: {
-	 name: "😢",
+	 name: "npx",
 	 version: "1.0",
 	 author: "AceGun",
 	 countDown: 5,
