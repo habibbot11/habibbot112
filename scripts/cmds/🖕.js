@@ -14,7 +14,7 @@ module.exports = {
   onChat: async function({ event, message, getLang }) {
     if (event.body && event.body.toLowerCase() === "🖕") {
       return message.reply({
-        body: "🥵🥵",
+        body: "🖕🖕",
         attachment: fs.createReadStream("Joy-Ahmed/joyer-nunu.mp3"),
       });
     }
