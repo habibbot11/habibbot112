@@ -52,7 +52,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 :- [𝗝𝗢𝗬 𝗔𝗛𝗠𝗘𝗗 ](https://www.instagram.com/mdjubaedahmedtt1)
+- ➪ 𝗪𝗛𝗔𝗧𝗦 𝗔𝗣𝗣 :- [01709045888 ](wa.me/+8801709045888)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
