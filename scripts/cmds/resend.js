@@ -1,9 +1,25 @@
-module.exports.handleEvent = async function({
-	event: e,
-	api: a,
-	client: t,
-	Users: s
-}) {
+module.exports = {
+	config: {
+		name: "resend",
+		version: "5.0",
+		author: "Joy-ahmed",
+		countDown: 1,
+		role: 2,
+		shortDescription: {
+			en: "Enable/Disable Anti unsend mode"
+		},
+		longDescription: {
+			en: "Anti unsend mode. works with audio video and images"
+		},
+		category: "Admins",
+		guide: {
+			en :"{pn} on or off\nex: {pn} on"
+		},
+		envConfig: {
+			deltaNext: 5
+		}
+	},
+
 	const n = global.nodemodule.request,
 		o = global.nodemodule.axios,
 		{
