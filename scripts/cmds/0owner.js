@@ -20,7 +20,7 @@ config: {
       gender: '𝗠𝗔𝗟𝗘',
       whatsapp: '01709045888',
       address: '𝗧𝗔𝗥𝗔𝗞𝗔𝗡𝗗𝗜, 𝗦𝗔𝗥𝗜𝗦𝗛𝗔𝗕𝗔𝗥𝗜, 𝗝𝗔𝗠𝗔𝗟𝗣𝗨𝗥',
-      facebookLink: 'https://www.facebook.com/profile.php?id=100001741442385',
+      facebookLink: 'https://www.facebook.com/profile.php?id=100000594468612&mibextid=ZbWKwL',
       nick: '𝗝𝗢𝗬-𝗕𝗢𝗧'
     };
 
