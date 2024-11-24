@@ -26,37 +26,37 @@
  <img src="https://profile-counter.glitch.me/MD-JUBAED-AHMED-JOY/count.svg" alt="Visitors">
 </p>
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<img align="center" alt="line" src="https://github.com/MD-JUBAED-AHMED-JOY/dalpatrathore/blob/main/assets/images/line-1.svg">
 
 <h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<img align="center" alt="line" src="https://github.com/MD-JUBAED-AHMED-JOY/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - ➪ 𝗡𝗔𝗠𝗘      : 𝗠𝗗 𝗝𝗨𝗕𝗔𝗘𝗗 𝗔𝗛𝗠𝗘𝗗 𝗝𝗢𝗬
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<img align="center" alt="line" src="https://github.com/MD-JUBAED-AHMED-JOY/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - ➪  𝗥𝗘𝗟𝗜𝗚𝗜𝗢𝗡   : 𝗜𝗦𝗟𝗔𝗠
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<img align="center" alt="line" src="https://github.com/MD-JUBAED-AHMED-JOY/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - ➪ 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡 :- 𝗦𝗧𝗨𝗗𝗬
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<img align="center" alt="line" src="https://github.com/MD-JUBAED-AHMED-JOY/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - ➪ 𝗥𝗘𝗟𝗔𝗧𝗜𝗢𝗡𝗦𝗛𝗜𝗣 :- 𝗦𝗜𝗡𝗚𝗟𝗘
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<img align="center" alt="line" src="https://github.com/MD-JUBAED-AHMED-JOY/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [𝗠𝗗 𝗝𝗨𝗕𝗔𝗘𝗗 𝗔𝗛𝗠𝗘𝗗 𝗝𝗢𝗬 ](https://www.facebook.com/mdjubaedahmedjoy?mibextid=ZbWKwL)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<img align="center" alt="line" src="https://github.com/MD-JUBAED-AHMED-JOY/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - ➪ 𝗪𝗛𝗔𝗧𝗦 𝗔𝗣𝗣 :- [01709045888 ](wa.me/+8801709045888)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<img align="center" alt="line" src="https://github.com/MD-JUBAED-AHMED-JOY/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 <h3><b><i> Contact me in Touch :</i></b></h3>
 <a href="https://github.com/MD-JUBAED-AHMED-JOY"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
-<a href="https://fb.com/www.xnx.com09"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
-<a href="https://www.instagram.com/mdrahad_hosain"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
+<a href="https://www.facebook.com/profile.php?id=100000594468612&mibextid=ZbWKwL"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/MD-JUBAED-AHMED-JOY/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
+<a href="https://wa.me/+8801709045888"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
